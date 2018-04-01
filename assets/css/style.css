@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(236, 57, 102);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#randomnumber {
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 20px;
+}
+
+#gamestatuswin {
+    height: 100px;
+    width: 90px;
+    margin: 10px;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 20px;
+}
+
+#gamestatuslose {
+    height: 100px;
+    width: 90px;
+    margin: 10px;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 20px;
+}
+
+#score {
+    height: 40px;
+    width: 200px;
+    margin: 10px;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 18px;
+
+}
+
+#scoredisplay {
+    height: 100px;
+    width: 200px;
+    margin: 10px;
+    background-color: rebeccapurple;
+    color: white;
+    font-size: 18px;
+}
+span{
+    display: none;
+}
